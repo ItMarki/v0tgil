@@ -1,5 +1,6 @@
-h1 {
-	font-family:url('GenRyuMinTW-SemiBold.ttf'),Serif
+@font-face {
+    font-family: serif;
+    src: url('GenRyuMinTW-SemiBold.ttf')
 }
 
 body {
