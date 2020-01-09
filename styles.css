@@ -36,6 +36,8 @@ p {
 
 /* Style the tab */
 .tab {
+  font-family: med;
+  color: #000000;
   overflow: hidden;
   border: 1px solid #b2b2b2;
   background-color: #cccccc;
