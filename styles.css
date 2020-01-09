@@ -46,18 +46,18 @@ p {
 
 /* Style the buttons that are used to open the tab content */
 .tab button {
-  background-color: inherit;
+  background-color: #b2b2b2;
   float: left;
   border: none;
   outline: none;
   cursor: pointer;
   padding: 14px 16px;
-  transition: 0.3s;
+  transition-duration: 0.2s;
 }
 
 /* Change background color of buttons on hover */
 .tab button:hover {
-  background-color: #b2b2b2;
+  background-color: #c8c8c8;
 }
 
 /* Create an active/current tablink class */
