@@ -36,6 +36,7 @@ p {
 
 /* Style the tab */
 .tab {
+  font-size: 200%;
   font-family: med;
   color: #000000;
   overflow: hidden;
