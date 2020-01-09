@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Serif;
+    src: url('GenRyuMinTW-Medium.ttf','GenRyuMinTW-Regular.ttf','GenRyuMinTW-SemiBold.ttf');
+}
+
 body {
 	background-color: #e0e0e0;
 	font-size: 18px;
