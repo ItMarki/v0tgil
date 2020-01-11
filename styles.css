@@ -1,54 +1,54 @@
 @font-face {
-    font-family: semibold;
-    src: url(GenRyuMinTW-SemiBold.ttf);
+  font-family: semibold;
+  src: url(GenRyuMinTW-SemiBold.ttf);
 }
 
 @font-face {
-    font-family: med;
+  font-family: med;
     src: url(GenRyuMinTW-Medium.ttf);
 }
 
 @font-face {
-    font-family: regular;
+  font-family: regular;
     src: url(GenRyuMinTW-Regular.ttf);
 }
 
 body {
-	background-color: #e0e0e0;
-	font-size: 18px;
-	color: #606060;
+  background-color: #e0e0e0;
+  font-size: 18px;
+  color: #606060;
 }
 
 a:link {
-	color: #404040;
+  color: #404040;
 }
 
 a:visited {
-	color: #202020;
+  color: #202020;
 }
 
 a:active {
-	color: #606060;
+  color: #606060;
 }
 
 h1 {
-	color: #606060;
-	font-size: 300%;
+  color: #606060;
+  font-size: 300%;
 }
 
 h2 {
-	color: #404040;
-	font-size: 200%;
+  color: #404040;
+  font-size: 200%;
 }
 
 h3 {
-	color: #202020;
-	font-size: 175%;
+  color: #202020;
+  font-size: 175%;
 }
 
 p {
-	color: #000000;
-	font-size: 150%;
+  color: #000000;
+  font-size: 150%;
 }
 
 /* Style the tab */
@@ -93,5 +93,5 @@ p {
 table, th, td {
   border: 2px solid #000000;
   border-collapse: collapse;
-  text-align: center
+  text-align: center;
 }
