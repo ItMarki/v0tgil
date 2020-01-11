@@ -91,7 +91,6 @@ p {
 }
 
 table, th, td {
-  color: #000000;
-  border: 2px solid #404040;
+  border: 2px solid #000000;
   border-collapse: collapse;
 }
