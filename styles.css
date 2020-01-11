@@ -34,21 +34,25 @@ a:active {
 h1 {
 	color: #606060;
 	font-size: 300%;
+	font-family: semibold;
 }
 
 h2 {
 	color: #404040;
 	font-size: 200%;
+	font-family: med;
 }
 
 h3 {
 	color: #202020;
 	font-size: 175%;
+	font-family: med;
 }
 
 p {
 	color: #000000;
 	font-size: 150%;
+	font-family: regular;
 }
 
 /* Style the tab */
