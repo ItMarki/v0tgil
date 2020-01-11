@@ -89,3 +89,8 @@ p {
   border: 1px solid #b2b2b2;
   border-top: none;
 }
+
+table, th, td {
+  border: 2px solid #404040;
+  border-collapse: collapse;
+}
